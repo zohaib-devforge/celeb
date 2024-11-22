@@ -1,0 +1,51 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+dist/
+*.tsbuildinfo
+*.js
+*.d.ts
+
+# Build output
+build/
+
+# VS Code
+.vscode/
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Next.js
+.next/
+
+# Jest
+coverage/
+
+# Typescript cache
+*.tsbuildinfo
+
+# Dependency directories
+bower_components/
+
+# NPM
+package-lock.json
+yarn.lock
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
